@@ -5,3 +5,5 @@ remote_theme: pages-themes/midnight@v0.2.0
 title: Dr. Emily Rickman
 tagline: ESA Astronomer 
 description: Exoplanets, Direct Imaging, Radial Velocities, Astrometry
+
+google_analytics: [G-Z41J8GC7LZ]
