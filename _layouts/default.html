@@ -32,7 +32,7 @@
 
     <div class="wrapper">
 
-      <section style="text-align: center;>
+      <section>
         <div id="title">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
           <p>{{ site.tagline | default: site.description | default: site.github.project_tagline }}</p>
@@ -40,9 +40,10 @@
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
         </div>
 
-        <img src="headshot.png" width="40%" align="Center">
-        
+        <div style="text-align: justify; text-justify: inter-word;">
+        <img src="headshot.png" width="40%">
         {{ content }}
+          </div>
         
       </section>
 
