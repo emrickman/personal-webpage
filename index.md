@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![headshot](Emily headshot.jpg)
+![headshot](headshot.png)
 
 I am a science operations scientist for the European Space Agency (ESA) at the Space Telescope Science Institute, Baltimore, Maryland, USA. I work on combining astrometric and radial velocity data to find promising candidates to directly image, and spectrally and atmospherically characterize any detections. I work on the Hubble Space Telescope STIS team and I am also a member of the JWST telescope scientist team, working as a project-level member on coronagraphic imaging.
 
